@@ -1,0 +1,35 @@
+{
+    "default_count":50,
+    "items": [
+        {
+            "playlist_id":"PL21A7A915E7020E73",
+            "genre":"electro",
+            "num":-1
+        },
+        {
+            "playlist_id":"RDQM5iglxr_l5Yg",
+            "genre":"jazz",
+            "num":-1
+        },
+        {
+            "playlist_id":"PLw-VjHDlEOgsIgak3vJ7mrcy-OscZ6OAs",
+            "genre":"rap",
+            "num":-1
+        },
+        {
+            "playlist_id":"PLDZIMJooKojCrAwXNVEpz1iIHGg0voE5m",
+            "genre":"folk",
+            "num":-1
+        },
+        {
+            "playlist_id":"PLZN_exA7d4RVmCQrG5VlWIjMOkMFZVVOc",
+            "genre":"rock",
+            "num":-1
+        },
+        {
+            "playlist_id":"PLRb-5mC4V_Lop8KLXqSqMv4_mqw5M9jjW",
+            "genre":"classical",
+            "num":-1
+        }
+    ]
+}
