@@ -48,7 +48,7 @@ def downloadPlaylist(json_data, num_songs):
 
 
 api_root = 'https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults='
-api_key = 'AIzaSyDW7_dxfZpbx-2-2v7ipht9StqKPuz5kro'
+api_key = 'AIzaSyDhqGyNGVsHvt8MRLuDSmIWXC7SO0ubmZw'
 DIR_PREFIX = 'songs/'
 
 
